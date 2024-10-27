@@ -1,3 +1,7 @@
 # assign1git
 Gordieieva Mariia
-testbranch change
+<<<<<<< HEAD
+testbranch change This is a change on newbranch
+=======
+testbranch change This is a change on newbranch
+>>>>>>> main
